@@ -4,7 +4,7 @@
 
 > Curated list of resources for the development and applications of block chain.
 
-The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value (by <a href='https://www.linkedin.com/pulse/whats-next-generation-internet-surprise-its-all-don-tapscott'>Don Tapscott</a>)
+The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value (by <a href='https://www.linkedin.com/pulse/whats-next-generation-internet-surprise-its-all-don-tapscott' target="blank">Don Tapscott</a>)
 <!-- [Don Tapscott](https://www.linkedin.com/pulse/whats-next-generation-internet-surprise-its-all-don-tapscott)). -->
 
 <font color=#0099ff size=3>**This is not a simple collection of Internet resources, but verified and organized data ensuring it's really suitable for your learning process and useful for your development and application.**</font>
