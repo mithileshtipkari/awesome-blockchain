@@ -4,9 +4,10 @@
 
 > Curated list of resources for the development and applications of block chain.
 
-The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value (by [Don Tapscott](https://www.linkedin.com/pulse/whats-next-generation-internet-surprise-its-all-don-tapscott)).
+The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value (by <a href='https://www.linkedin.com/pulse/whats-next-generation-internet-surprise-its-all-don-tapscott'>Don Tapscott</a>)
+<!-- [Don Tapscott](https://www.linkedin.com/pulse/whats-next-generation-internet-surprise-its-all-don-tapscott)). -->
 
-<font color=#0099ff size=3>**This is not a simple collection of Internet resources, but verified and organized data ensuring it's really suitable for your learning process and useful for your development and application.**</font> 
+<font color=#0099ff size=3>**This is not a simple collection of Internet resources, but verified and organized data ensuring it's really suitable for your learning process and useful for your development and application.**</font>
 
 ## Contents
 <details><summary>Click to expand</summary>
@@ -157,17 +158,17 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
     -->
 -   **Account and transaction model**  
     * [UTXO model](https://www.jianshu.com/p/2f4e75dbc2e4)
-<!-- 
+<!--
 ### Exchange
     -->
 -   **Exchange**  
-<!-- 
+<!--
 ### Applications
     -->
 -   **Applications**  
     * [Do You Need a Blockchain?](https://spectrum.ieee.org/computing/networks/do-you-need-a-blockchain)  
     * [What can't blockchain do?](https://www.jianshu.com/p/70f6a29a6296)  
-    * [More](./Extension/application.md) 
+    * [More](./Extension/application.md)
 <!--     
 ### Governance
     -->
@@ -188,7 +189,7 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 
 [<img src="https://bitcoin.org/img/icons/logotop.svg" align="right" width="120">](https://bitcoincore.org)
 
-**Bitcoin** is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses **peer-to-peer** technology to **operate with no central authority**: managing transactions and issuing money are carried out collectively by the network. 
+**Bitcoin** is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses **peer-to-peer** technology to **operate with no central authority**: managing transactions and issuing money are carried out collectively by the network.
 
 -   [BitCoin white paper: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) / [Chinese version](BitCoin/white%20paper.md)
 -   [Mastering BitCoin](https://github.com/bitcoinbook/bitcoinbook) / [Chinese version](http://book.8btc.com/books/6/masterbitcoin2cn/_book/) / [pdf download](http://book.8btc.com/master_bitcoin?export=pdf)
@@ -200,7 +201,7 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 +   [Libraries](./BitCoin/awesome.md#libraries) - C++, JavaScript, PHP, Ruby, Python, Java, .Net
 +   [Web services](./BitCoin/awesome.md#blockchain-api-and-web-services)
 +   [Full nodes](./BitCoin/awesome.md#full-nodes)
-+   [More](./BitCoin/awesome.md) 
++   [More](./BitCoin/awesome.md)
 
 ### [Ethereum](https://github.com/ethereum)
 
@@ -315,7 +316,7 @@ These apps run on a custom built **blockchain, an enormously powerful shared glo
 -   [**Java**: _Creating Your First Blockchain with Java_](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
 -   [**Java**: _Write a blockchain with java_](https://www.jianshu.com/p/afd8c465c91a)
 -   [**JavaScript**: _A cryptocurrency implementation in less than 1500 lines of code_](https://github.com/conradoqg/naivecoin)
--   [**JavaScript**: _A web-based demonstration of blockchain concepts_](https://github.com/anders94/blockchain-demo/) 
+-   [**JavaScript**: _A web-based demonstration of blockchain concepts_](https://github.com/anders94/blockchain-demo/)
 -   [**JavaScript**: _Build your own Blockchain in JavaScript_](https://github.com/nambrot/blockchain-in-js)
 -   [**JavaScript**: _Code for Blockchain Demo_](https://github.com/seanjameshan/blockchain)
 -   [**JavaScript**: _Creating a blockchain with JavaScript_](https://github.com/SavjeeTutorials/SavjeeCoin)
@@ -593,12 +594,12 @@ Key enhancements over go-ethereum:
     Best design and security practice_
 
 
--   [**Best of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLers - Inside The New New Crypto Ponzi Economics**](https://github.com/bitsblocks/bitcoin-maximalist), 2018 - FREE 
+-   [**Best of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLers - Inside The New New Crypto Ponzi Economics**](https://github.com/bitsblocks/bitcoin-maximalist), 2018 - FREE
 
--   [**Crypto Facts - Decentralize Payments - Efficient, Low Cost, Fair, Clean - True or False?**](https://github.com/bitsblocks/crypto-facts), 2018 - FREE 
+-   [**Crypto Facts - Decentralize Payments - Efficient, Low Cost, Fair, Clean - True or False?**](https://github.com/bitsblocks/crypto-facts), 2018 - FREE
 
 -   [**IslandCoin White Paper - A Pen and Paper Cash System - How to Run a Blockchain on a Deserted Island**](https://github.com/bitsblocks/islandcoin-whitepaper)
-    by Tal Kol -- 
+    by Tal Kol --
     _Motivation ++
     Consensus ++
     Transaction and Block Specification -
@@ -606,15 +607,15 @@ Key enhancements over go-ethereum:
     Block format •
     Genesis block ++
     References_
-    
+
 -   [**Blockchain in Action**](https://www.manning.com/books/blockchain-in-action) by Bina Ramamurthy, early access --
       _Learn how blockchain differs from other distributed systems ++
     Smart contract development with Ethereum and the Solidity language ++
     Web UI for decentralized apps ++
     Identity, privacy and security techniques ++
     On-chain and off-chain data storage_
-    
-    
+
+
 ### Applications
 
 #### Identity Applications
@@ -672,12 +673,12 @@ Key enhancements over go-ethereum:
 
 -   [Steem](https://steem.io) - Decentralized social network which incentivises content creation and curation.
 -   [PopChest](https://popchest.com) - Incentivized distributed video platform.
--   [Civil](https://joincivil.com) - Decentralized newsmaking platform. 
+-   [Civil](https://joincivil.com) - Decentralized newsmaking platform.
 
 ---
 ## Contribute
 
-Contributions welcome! 
+Contributions welcome!
 
 1.  Fork it (<https://github.com/yjjnls/awesome-blockchain/fork>)
 2.  Clone it (`git clone https://github.com/yjjnls/awesome-blockchain`)
